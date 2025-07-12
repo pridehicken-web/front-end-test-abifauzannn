@@ -2,7 +2,7 @@
 
 # 🛠️ Aplikasi CRUD DummyJSON
 
-Aplikasi CRUD responsif menggunakan API DummyJSON. Fitur mencakup login, manajemen produk (tambah, lihat, ubah, hapus), filter kategori, pencarian, notifikasi toast, dan UI responsif.
+Aplikasi CRUD responsif menggunakan API DummyJSON. Fitur mencakup login, manajemen produk (tambah, lihat, ubah, hapus), pencarian, notifikasi toast, dan UI responsif.
 
 ---
 
@@ -46,3 +46,8 @@ src/
 ├── App.jsx
 └── main.jsx
 ```
+
+## Autentikasi
+
+**Username :** emilys
+**Password :** emilyspass
